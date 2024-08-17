@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joao-Victor-BR.
+- 👋 Hi, I’m @Joao-Victor-BR
 - 👀 I'm interested in learning as much as I can about technology.
 - 📖 Second period in Computer Science at UERJ.
 - 🌱 I’m currently learning Python and C.
